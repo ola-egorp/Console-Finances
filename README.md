@@ -3,4 +3,4 @@ This is a Console application that takes a dataset of months and figures and per
 ![image](https://github.com/ola-egorp/Console-Finances/assets/156482736/f5505c85-f68b-4885-805e-a7fd0811c5df)
 
 
-Here is the link to the site.
+Here is the link to the site: https://ola-egorp.github.io/Console-Finances/
